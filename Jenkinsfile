@@ -26,10 +26,5 @@ pipeline {
             }
         }
 
-        stage('Publish Test Results') {
-            steps {
-                junit '**/TestResults/*.xml'  // Works if you install NUnit or XUnit plugin
-            }
         }
     }
-}
