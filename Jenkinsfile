@@ -16,13 +16,13 @@ pipeline {
 
         stage('Build') {
             steps {
-                bat 'dotnet build --configuration Release'
+                bat 'dotnet build '
             }
         }
 
         stage('Run Selenium Tests') {
             steps {
-                bat 'dotnet test --configuration Release --logger "trx;LogFileName=test_results.trx"'
+                bat 'dotnet test'
             }
         }
 
