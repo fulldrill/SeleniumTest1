@@ -175,3 +175,4 @@ E:\JENKINS2\DAY7\selenium\SeleniumTests\obj\Debug\net9.0\refint\SeleniumTests.dl
 E:\JENKINS2\DAY7\selenium\SeleniumTests\obj\Debug\net9.0\SeleniumTests.pdb
 E:\JENKINS2\DAY7\selenium\SeleniumTests\obj\Debug\net9.0\SeleniumTests.genruntimeconfig.cache
 E:\JENKINS2\DAY7\selenium\SeleniumTests\obj\Debug\net9.0\ref\SeleniumTests.dll
+E:\JENKINS2\DAY7\selenium\SeleniumTests\obj\Debug\net9.0\SeleniumTests.sourcelink.json
